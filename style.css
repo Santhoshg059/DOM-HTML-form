@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(171, 234, 200) !important;
+}
+h1{
+    text-align: center;
+   
+}
+h4{
+  margin-left: 5%;
+}
+p{
+    text-align:inherit;
+    
+    margin-left: 10%;
+    padding-right: 2%;
+}
+.inputbx{
+    width: 20%;
+    margin-left: 4%;
+}
+#address{
+    height: 100px;
+}
+.lbl{
+    margin-left: 4%;
+}
+
+
+#male{
+    width: 20px !important;
+    border: 1px solid black !important;
+}
+#female{
+    width: 20px !important;
+    border: 1px solid black !important;
+}
+
+.food{
+    margin-left: 4% !important;
+}
+label {
+    display: inline-block;
+    margin-left: 4%;
+}
+.form-check-input{
+    border: 1px solid black !important;
+}
+#myTable{
+    margin-left: 4%;
+    border: 2px solid black;
+    width: 80%;
+     
+  border-spacing: 0;
+  
+}
+#myTable th,#myTable td{
+    border-right: 2px solid #000; 
+    border-bottom: 2px solid black;
+  padding: 8px;
+}
+
+th:last-child,
+td:last-child {
+  border-right: none; 
+}
+#submit{
+    margin-left: 4%;
+}
